@@ -1,20 +1,20 @@
 {
     "basic_info": {
       "name": "Alex Chao",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Building Things Since 199X" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com/alexsaechao",
+          "url": "https://github.com",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/alex-chao-314698182/",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "myProfile.png"
     },
     "skills": {
       "icons": [
